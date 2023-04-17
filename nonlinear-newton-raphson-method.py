@@ -17,6 +17,7 @@ for i in range(5):
    jj=jj+1
    A=F
    B=M
+   #solving newton raphson non-linear method
 
 
 
